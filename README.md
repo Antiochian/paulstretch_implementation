@@ -5,6 +5,8 @@ The algorithm being used here is "paulstretch", by [Paul Nasca](http://www.pauln
 
 Randomizing the complex phases is the key step here, as this hides any audio tearing/compression artefacts that would otherwise be painfully obvious when sounds are slowed down too much.
 
+Extremely in-progress, will update this README later.
+
 Progress:
  - [x] File I/O
  - [x] Implement window splitting
